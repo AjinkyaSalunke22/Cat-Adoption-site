@@ -1,6 +1,9 @@
 
 **Cat Adoption Site 🐾**
-Welcome to the adorable world of cat adoption! 🐱 Explore this delightful demo site designed to make feline friends find their forever homes.
+
+Welcome to the adorable world of cat adoption! 🐱 
+
+Explore this delightful demo site designed to make feline friends find their forever homes.
 
 🔗 Link to the site:  https://ajinkyasalunke22.github.io/Cat-Adoption-site/
 -
