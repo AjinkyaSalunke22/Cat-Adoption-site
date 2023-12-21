@@ -2,11 +2,12 @@
 **Cat Adoption Site 🐾**
 Welcome to the adorable world of cat adoption! 🐱 Explore this delightful demo site designed to make feline friends find their forever homes.
 
-🔗 Link to the site: Cat Adoption Site
+🔗 Link to the site:  https://ajinkyasalunke22.github.io/Cat-Adoption-site/
+-
 
 Join us on this heartwarming journey, where each click brings you closer to the purrfect companion! 🏡
 
-Demmo
+Demo
 
 <img width="947" alt="C A 1" src="https://github.com/AjinkyaSalunke22/Cat-Adoption-site/assets/114003751/175d3796-e649-49cb-bd6c-8013b4072705">
 <img width="949" alt="C A 2" src="https://github.com/AjinkyaSalunke22/Cat-Adoption-site/assets/114003751/678e7e08-3f26-4a0d-b1dd-6da6439776f0">
